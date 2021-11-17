@@ -28,8 +28,6 @@
 
 For frontend development, I have used <b>Flutter</b>, which helps to create cross-platform applications. For backend development, I have used <b>Firebase</b>.
 
-[(Back to top)](#table-of-contents)
-
 ## How To Use
 
 1. ToDoey application is used to maintain the to-do list of the user so that one can easily prioritize their tasks.
@@ -62,8 +60,6 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 <br>
 
-[(Back to top)](#table-of-contents)
-
 ## Challenges Faced
 
  During the development process I faced the following challenges: 
@@ -77,12 +73,8 @@ Editing the tasks in the tiles was very difficult as fetching the data which onc
 3. Saving previous states: 
 After closing the application, last entered tasks were getting erased. Due to the error in the state management and connection establishment this was happening. Correcting the mistake, application was successfully able to complete the task for which it was created that is, to save the to-do list for the user.
 
-[(Back to top)](#table-of-contents)
-
 ## Learnings
 
 1. I learnt many state management techniques and came to know how to implement CRUD state management strategy.
 2. Integrating Firebase with Flutter gave me in-depth knowledge about the databases and backend technologies.
 3. MVC Architecture implemented in this application gave me insights about the fabrication, laying, designing and development of the large-scale applications.
-
-[(Back to top)](#table-of-contents)
