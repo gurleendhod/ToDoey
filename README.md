@@ -36,7 +36,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 <br>
 
-2. Clicking on the icon open the applications’ home page.
+2. Clicking on the icon the applications’ home page opens up.
 
 <img src="assets/HomeScreen.jpeg" height="350px"> 
 
