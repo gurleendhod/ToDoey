@@ -2,9 +2,11 @@
 <!-- Add banner here -->
 <p align = "center">
   <img src="assets/icon.png" />
-  Make your life easy, with ToDoey!
 </p>
 
+<p align = "center">
+  Make your life easy, with ToDoey!
+</p>
 
 <b>Solved Problem:</b> We all have those days when there are a million things to do, and we don't know how we're going to get it all done. It's easy to become overwhelmed by the vast quantity of tasks that we must do from day to day. Hence, organizing the tasks with a list can make everything manageable and gives a clear outline of the tasks that you've got to do and those you've completed, it helps you stay focused.
 
@@ -32,7 +34,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 1. ToDoey application is used to maintain the to-do list of the user so that one can easily prioritize their tasks.
 
-<img src="assets/icon.png"> 
+<img src="assets/icon.png" height="100px"> 
 
 <br>
 
