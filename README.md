@@ -66,7 +66,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 ## Challenges Faced
 
-During the development process I faced the following challenges: 
+ During the development process I faced the following challenges: 
 
 1. Connection establishment with Backend
 
@@ -85,7 +85,7 @@ After closing the application, last entered tasks were getting erased. Due to th
 ## Learnings
 
 1. I learnt many state management techniques and came to know how to implement CRUD state management strategy.
-2. 2. Integrating Firebase with Flutter gave me in-depth knowledge about the databases and backend technologies.
-3. 3. MVC Architecture implemented in this application gave me insights about the fabrication, laying, designing and development of the large-scale applications.
+2. Integrating Firebase with Flutter gave me in-depth knowledge about the databases and backend technologies.
+3. MVC Architecture implemented in this application gave me insights about the fabrication, laying, designing and development of the large-scale applications.
 
 [(Back to top)](#table-of-contents)
