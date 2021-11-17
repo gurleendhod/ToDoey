@@ -2,9 +2,8 @@
 <!-- Add banner here -->
 <p align = "center">
   <img src="assets/icon.png" />
+  Make your life easy, with ToDoey!
 </p>
-
-Make your life easy, with ToDoey!
 
 
 <b>Solved Problem:</b> We all have those days when there are a million things to do, and we don't know how we're going to get it all done. It's easy to become overwhelmed by the vast quantity of tasks that we must do from day to day. Hence, organizing the tasks with a list can make everything manageable and gives a clear outline of the tasks that you've got to do and those you've completed, it helps you stay focused.
@@ -33,7 +32,7 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
 1. ToDoey application is used to maintain the to-do list of the user so that one can easily prioritize their tasks.
 
-<img src="assests/icon.png"> 
+<img src="assets/icon.png"> 
 
 <br>
 
@@ -84,7 +83,7 @@ After closing the application, last entered tasks were getting erased. Due to th
 ## Learnings
 
 1. I learnt many state management techniques and came to know how to implement CRUD state management strategy.
-2. Integrating Firebase with Flutter gave me in-depth knowledge about the databases and backend technologies.
-3. MVC Architecture implemented in this application gave me insights about the fabrication, laying, designing and development of the large-scale applications.
+2. 2. Integrating Firebase with Flutter gave me in-depth knowledge about the databases and backend technologies.
+3. 3. MVC Architecture implemented in this application gave me insights about the fabrication, laying, designing and development of the large-scale applications.
 
 [(Back to top)](#table-of-contents)
