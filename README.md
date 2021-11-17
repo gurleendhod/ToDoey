@@ -68,13 +68,13 @@ For frontend development, I have used <b>Flutter</b>, which helps to create cros
 
  During the development process I faced the following challenges: 
 
-1. Connection establishment with Backend
+1. Connection establishment with Backend: 
 Initially, the connection with the firebase, which is serving as the database of the application, was easily made. However, after slight changes the connection was getting failed again and again. After, a deep analysis I found that the entries made in the database were not compatible with the ones which were in the original project, Hence, the error was rectified and the connection was established successfully.
 
-2. Tasks editing
+2. Tasks editing: 
 Editing the tasks in the tiles was very difficult as fetching the data which once entered by the user and make it editable took a lot of research and efforts.
 
-3. Saving previous states
+3. Saving previous states: 
 After closing the application, last entered tasks were getting erased. Due to the error in the state management and connection establishment this was happening. Correcting the mistake, application was successfully able to complete the task for which it was created that is, to save the to-do list for the user.
 
 [(Back to top)](#table-of-contents)
